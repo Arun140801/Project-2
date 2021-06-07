@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    background: url(gamebg.jpg);
+    background: #2e88a3(gamebg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
@@ -31,7 +31,7 @@ body::before {
 .result {
     border:1px solid black;
     border-radius: 10px;
-    background: white ;
+    background:#474605 ;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -44,7 +44,7 @@ body::before {
 .history {
     border: 1px solid black;
     border-radius: 5px;
-    background: white;
+    background:#474605;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -73,7 +73,7 @@ button {
 }
 
 .label {
-    color: white;
+    color: #df89e0;
     font-size: 1.5rem;
 }
 
